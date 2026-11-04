@@ -75,6 +75,7 @@ The communication protocol and sensor-processing firmware are still under develo
 
 <img width="907" height="750" alt="image" src="https://github.com/user-attachments/assets/7ef63150-5388-47d6-a5fc-7c09bd838bb7" />
 
+## BOM
 
 | Name | Quantity | Price | Supplier Part ID | Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -97,6 +98,8 @@ The communication protocol and sensor-processing firmware are still under develo
 | WS2812B-1313-V6 | 1 | 0.109 | C52941388 | [Link](https://atta.szlcsc.com/upload/public/pdf/source/20240229/B8051D75F82007E6B8E5AD9424D7210B.pdf) |
 | TYPE-C-31-M-12 | 1 | 0.189 | C165948 | [Link](https://item.szlcsc.com/datasheet/TYPE-C-31-M-12/177331.html?spm=sc.gbn.xds.a___sc.gbn.hd.ss&lcsc_vid=RgMNUVYEQARbV1xTElVcVwIAFFBXVwBfEQdfX1UCRAcxVlNTQFBcUlFXT1hYVTsOAxUeFF5JWA0NAgAHWQIASA%3D%3D) |
 
+#### JLCPCB Cart screenshot 
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/701b1e9f-cda3-4056-aa86-5467ea0fe732" />
 
 
 
